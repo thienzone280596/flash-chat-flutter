@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174733460086",
+    "project_id": "flash-chat-8752b",
+    "storage_bucket": "flash-chat-8752b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174733460086:android:9b8025bfbc0aac95259557",
+        "android_client_info": {
+          "package_name": "com.thientran.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEt-wewInpd5zhqGh_W_1AmraxJl9QVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
